@@ -13,7 +13,7 @@ public class App {
         System.out.println(enTekst.antallOrd());
         System.out.println(enTekst.gjennomsnittligOrdlengde());
         System.out.println(enTekst.gjennomsnittligOrdPerPeriode());
-        System.out.println(enTekst.erstattOrd("tilfeldig", "dårlig"));
+        System.out.println(enTekst.erstattOrd("enkel", "dårlig"));
         System.out.println(enTekst.utenEndring());
         System.out.println(enTekst.capitalizeAlt());
         
