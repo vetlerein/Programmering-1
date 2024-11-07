@@ -17,7 +17,4 @@ public class Person {
     public int getFødselsår(){
         return this.fødselsår;
     }
-
-
-
 }
